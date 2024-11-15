@@ -7,3 +7,10 @@
 > [!IMPORTANT]
 > **Works on license & Pirate versions**
 
+
+> [!Note]
+> - **MegaHackV8Crack**
+> - **Install and run MegaHack V8 ✅**
+> - **Its installs automatically**
+> - **All files will be replaced automatically in geometry dash folder**
+
