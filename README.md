@@ -15,5 +15,5 @@
 > - **All files will be replaced automatically in geometry dash folder**
  > - **Just run geometry dash**
 
-> [!IMPORTANT]
-> **IF MegaHackV8Crack not working Run Fixer**
+> [!Warning]
+>   *If Crack doesn't working run fixer.bat 
