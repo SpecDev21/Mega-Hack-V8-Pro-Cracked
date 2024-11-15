@@ -6,5 +6,4 @@
 
 > [❗️IMPORTANT]
 > **Works on license & Pirate versions**
-> 
-> ![explorer_W9oqnEK6k7](https://github.com/user-attachments/assets/527c0002-ebff-4125-812c-7a4db6aec19b) ![UWshZM5vH9](https://github.com/user-attachments/assets/ac574c61-5abc-4554-a4c1-4afea744a7ca)
+
