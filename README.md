@@ -13,5 +13,5 @@
 > - **Install and run MegaHack V8 ✅**
 > - **Its installs automatically**
 > - **All files will be replaced automatically in geometry dash folder**
- - > -**Just run geometry dash**
+ >**Just run geometry dash**
 
