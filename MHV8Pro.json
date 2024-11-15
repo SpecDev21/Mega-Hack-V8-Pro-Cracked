@@ -1,0 +1,29 @@
+{
+	"Absoulute": "CRACKED",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "LAST",
+	"id": "Cracked Mega hack v8 Pro",
+	"name": "GD Mega Hack v8 Pro",
+	"developers": ["Absoulute", "SpaghettDev"],
+	"description": "Cracked mega hack v8 pro",
+   ",
+	"resources": {
+		"files": [
+			"res/hacks/*.json",
+			"res/Style.style",
+			"res/Roboto-Regular.ttf",
+			"res/get_ffmpeg/*",
+			"res/default_windows.json",
+			"res/shadow.png"
+		]
+	},
+	"dependencies": [
+		{
+            "id": "MHV8PRO.node-ids",
+            "version": ">=v8",
+            "importance": "required"
+        }
+	]
+}
